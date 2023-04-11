@@ -7,7 +7,7 @@
   }
   
   body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Open Sans', sans-serif;
   }
   
   .label {
@@ -92,4 +92,11 @@
   
   .daily-value p:not(.no-divider) {
     border-bottom: 1px solid #888989;
+  }
+  
+  .note {
+    font-size: 0.6rem;
+    margin: 5px 0;
+    padding: 0 8px;
+    text-indent: -8px;
   }
